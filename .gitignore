@@ -1,0 +1,10 @@
+*.dSYM/
+.DS_Store
+.vscode/
+
+*
+!*.cpp
+!*.h
+!*.hpp
+!CMakeLists.txt
+!.gitignore
