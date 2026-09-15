@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int age = 20; // 创建一个名为age的整型变量，并初始化为25
+    int age = 30; // 创建一个名为age的整型变量，并初始化为25
     cout << "age: " << age << endl; // 输出变量age的值
     return 0;
 }
