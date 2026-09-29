@@ -1,8 +1,9 @@
+*
+!*/
 *.dSYM/
 .DS_Store
 .vscode/
-
-*
+build/
 !*.cpp
 !*.h
 !*.hpp
